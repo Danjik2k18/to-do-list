@@ -1,0 +1,6 @@
+input.center {
+    border: 2px black solid;
+    margin: 30px auto;
+    width: 200px;
+    display: block;
+}
